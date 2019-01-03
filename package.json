@@ -1,0 +1,10 @@
+{
+  "name": "reda-2019-arcade-physics-playground",
+  "version": "0.1.0",
+  "description": "Physics toy with collision rules and simple score objectives in the browser.",
+  "author": "Red@",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/smoke.test.js"
+  }
+}
