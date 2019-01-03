@@ -1,0 +1,11 @@
+# Architecture
+
+## Intent
+
+Physics toy with collision rules and simple score objectives in the browser.
+
+## Notes From Red@
+
+- Keep the repository readable and self-contained.
+- Prefer deterministic sample fixtures.
+- Make authorship and maintenance history explicit.
