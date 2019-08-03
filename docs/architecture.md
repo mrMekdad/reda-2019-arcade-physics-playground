@@ -9,3 +9,7 @@ Physics toy with collision rules and simple score objectives in the browser.
 - Keep the repository readable and self-contained.
 - Prefer deterministic sample fixtures.
 - Make authorship and maintenance history explicit.
+
+## Review Outcome
+
+The repository now supports a heavier sample-to-report workflow.
